@@ -1,0 +1,8 @@
+package-as: OutOfMana2
+
+ignore:
+    - README.md
+
+license-output: LICENSE.txt
+
+enable-nolib-creation: no
