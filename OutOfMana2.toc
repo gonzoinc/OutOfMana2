@@ -1,4 +1,4 @@
-## Interface: 90207v
+## Interface: 90207
 ## Version: v1.0.1
 ## Title: |cFF7FFFD4OutOfMana2|r by: |cFFE6CC80Gonzo Inc
 ## Notes: |cFFE6CC80Send an alert when reaching a certain mana percentage (/mana on chat to config).
