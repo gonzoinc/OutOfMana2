@@ -12,7 +12,7 @@ local antiSpamThreshold
 
 local version = GetAddOnMetadata("OutOfMana2","Version")
 -- Addon loaded message
-print("|c0003fc07OOM |r[v|c0003fc07" .. version .. "|r] loaded: /mana")
+print("|c0003fc07OOM |r[|c0003fc07" .. version .. "|r] loaded: /mana")
 
 -- Handle Events
 local f = CreateFrame("Frame");
