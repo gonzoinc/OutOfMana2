@@ -45,6 +45,15 @@ function f:OnEvent(event, arg1, arg2)
     end
 end
 
+AddonCompartmentFrame:RegisterAddon({
+    text = "|c0003fc07OutOfMana2|r",
+    icon = "Interface\\AddOns\\OutOfMana2\\Textures\\OOM_Logo",
+    notCheckable = true,
+    func = function()
+        print("|c0003fc07OutOfMana2|r by: |cFFE6CC80Gonzo Inc", version)
+    end,
+})
+
 f:SetScript("OnEvent", f.OnEvent)
 
 function round(number)
