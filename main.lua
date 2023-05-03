@@ -46,11 +46,11 @@ function f:OnEvent(event, arg1, arg2)
 end
 
 AddonCompartmentFrame:RegisterAddon({
-    text = "|c0003fc07OOM|r",
+    text = "|c0003fc07OutOfMana2|r",
     icon = "Interface\\AddOns\\OutOfMana2\\Textures\\OOM_Logo",
     notCheckable = true,
     func = function()
-        print("|c0003fc07OOM|r by: |cFFE6CC80Gonzo Inc", version)
+        print("|c0003fc07OutOfMana2|r by: |cFFE6CC80Gonzo Inc", version)
     end,
 })
 
