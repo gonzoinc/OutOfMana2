@@ -1,5 +1,5 @@
-## Interface: 100100
-## Version: v1.1.0
+## Interface: 100105
+## Version: v1.1.1
 ## Title: |cFF7FFFD4OutOfMana2|r by: |cFFE6CC80Gonzo Inc
 ## Notes: |cFFE6CC80Send an alert when reaching a certain mana percentage (/mana on chat to config).
 ## Author: GonzoInc
