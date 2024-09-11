@@ -1,3 +1,12 @@
+-- Fix for WOW API Changes
+local GetAddOnMetadata = C_AddOns and C_AddOns.GetAddOnMetadata or GetAddOnMetadata
+local GetNumAddOns = C_AddOns.GetNumAddOns or GetNumAddOns
+local IsAddOnLoaded = C_AddOns.IsAddOnLoaded or IsAddOnLoaded;
+local IsAddOnLoadOnDemand = C_AddOns.IsAddOnLoadOnDemand or IsAddOnLoadOnDemand;
+local GetAddOnInfo = C_AddOns.GetAddOnInfo or GetAddOnInfo
+local GetAddOnDependencies = C_AddOns.GetAddOnDependencies or GetAddOnDependencies
+
+
 -- constants
 local playerName = UnitName("player")
 local defaultMpThreshold = 50
