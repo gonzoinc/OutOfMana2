@@ -1,3 +1,7 @@
+<span style="color:red; font-weight:bold;">
+*** This addon will not be updated for Midnight. I stopped playing WOW after Blizzard’s / Ion Hazzikostas’ idiotic API Purge. RIP WOW. ***
+</span>
+
 # OutOfMana2
 Continuation of the abandoned Out Of Mana (OOM) add-on for World of Warcraft originally created by MrKingSanti
 
